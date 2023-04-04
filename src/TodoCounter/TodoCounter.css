@@ -1,0 +1,18 @@
+.containerCounter {
+  display: flex;
+  justify-content: space-between;
+}
+
+.containerCounter h2:nth-child(1) {
+    font-size: 24px;
+    text-align: center;
+    margin: 0;
+    color: white;
+}
+
+.containerCounter h2:nth-child(2){
+  font-size: 24px;
+  text-align: center;
+  margin: 0;
+  color: white;
+} 

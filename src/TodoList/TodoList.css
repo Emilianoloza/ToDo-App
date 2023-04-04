@@ -1,0 +1,14 @@
+ul {
+    margin: 0;
+    padding: 0 0 10px 0;
+    list-style: none;
+  }
+p{
+  font-size: 20px;
+  color: black;
+}
+.sugestionText{
+  font-size: 20px;
+  color: white;
+  text-align: center;
+}
