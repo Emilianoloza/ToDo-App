@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Emilianoloza/ToDo-App/precache-manifest.e49d1e90d10274ee7b65b01476a50055.js"
+  "/ToDo-App/precache-manifest.2a57af7af1c4d6d8e3165ba7e869d7cf.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/Emilianoloza/ToDo-App/index.html", {
+workbox.routing.registerNavigationRoute("/ToDo-App/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
